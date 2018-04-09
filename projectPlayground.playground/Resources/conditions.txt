@@ -1,0 +1,13 @@
+root => html
+meta => head
+meta.*(@tag=item && @src?=.js) => <script src="@src"></script>
+meta.*(@tag=item && @src?=.css) => <link rel="stylesheet" href="@src" type="text/css"></link>
+ui => body
+display => div
+b => <button>@text</button>
+p => <p>@text</p>
+
+# files
+
+index1.xml => index1.html
+index.json => indexjson.html

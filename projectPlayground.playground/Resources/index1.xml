@@ -1,0 +1,11 @@
+<root>
+    <meta>
+        <item src="/js/code.js" />
+        <item src="/css/style.css" />
+    </meta>
+    <ui>
+        <display>
+            <p text="akdasodkaso" />
+        </display>
+    </ui>
+</root>

@@ -1,0 +1,18 @@
+{
+    "root": {
+        "meta": [{ "tag" : "item",
+                 "@src": "/js/code.js"
+                 },
+                 { "tag" : "item",
+                 "@src": "/css/style.css"
+                 }
+                 ],
+        "ui": {
+            "display": {
+                "p": {
+                    "@text": "Hello my name is Georgi"
+                }
+            }
+        }
+    }
+}
