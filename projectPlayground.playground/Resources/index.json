@@ -12,7 +12,12 @@
                 "p": {
                     "@text": "Hello my name is Georgi"
                 }
+            },
+            "a" : {
+                "@href": "http://abv.bg/",
+                "@link": "ABV.bg"
             }
         }
     }
 }
+

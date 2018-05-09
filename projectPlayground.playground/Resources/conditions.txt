@@ -6,6 +6,7 @@ ui => body
 display => div
 b => <button>@text</button>
 p => <p>@text</p>
+a => <a href="@href" >@link</a>
 
 # files
 
